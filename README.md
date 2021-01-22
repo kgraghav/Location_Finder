@@ -33,7 +33,7 @@ The important files include: <br>
 
 ## Results<a name="results"></a>
 
-A summary of the application can be found at: 
+A summary of the application can be found at: https://kgraghav.medium.com/choosing-your-best-holiday-stay-with-python-13c988c42782
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
