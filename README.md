@@ -29,7 +29,7 @@ to find the most suitable location matching a user's needs, at a new place.
 ## File Descriptions <a name="files"></a>
 
 The important files include: <br>
-1. location_analysis-Git.ipynb - The final project code (CLIENT_ID and CLIENT_SECRET details to be added)
+1. location_analysis-Git.ipynb - The final project code (CLIENT_ID and CLIENT_SECRET details to be added). Optimum centroid location and hotels nearby are returned based on user preferences entered as inputs
 
 ## Results<a name="results"></a>
 
@@ -37,5 +37,5 @@ A summary of the application can be found at: https://kgraghav.medium.com/choosi
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Data obtained from [Foursquare API](https://developer.foursquare.com/) 
+Venue data obtained from [Foursquare API](https://developer.foursquare.com/) 
 
