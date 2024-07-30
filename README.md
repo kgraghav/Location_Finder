@@ -10,7 +10,7 @@
 
 ## Installation <a name="installation"></a>
 
-The code was run using <b>Python version 3.6.11.</b> Libraries used, include: <br>
+The code was run using <b>Python version 3.12.4.</b> Libraries used, include: <br>
 1. pip - to install and manage packages from the [Python Package Index](https://pypi.org/)
 2. numpy - [NumPy](https://numpy.org/) for array data handling
 3. pandas - [Pandas](https://pandas.pydata.org/) for database and dataframe handling
