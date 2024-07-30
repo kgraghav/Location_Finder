@@ -16,8 +16,6 @@ The code was run using <b>Python version 3.12.4.</b> Libraries used, include: <b
 3. pandas - [Pandas](https://pandas.pydata.org/) for database and dataframe handling
 4. math - [math](https://docs.python.org/3/library/math.html) for more math functions than default
 5. geopy - [GeoPy](https://geopy.readthedocs.io/en/stable/) for geocoding using python
-6. sklearn - [Scikit-learn](https://scikit-learn.org/stable/)  machine learning and analysis module 
-                Specifically K-means
 7. matplotlib - [Matplotlib](https://matplotlib.org/) visualization and plotting library
 8. folium- [Folium](https://python-visualization.github.io/folium/) Makes leaflet world maps
 
